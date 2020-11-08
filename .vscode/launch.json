@@ -8,6 +8,13 @@
       "type": "java",
       "name": "CodeLens (Launch) - GUIFilmes",
       "request": "launch",
+      "mainClass": "principal.GUIFilmes",
+      "projectName": "javaBD_cf05fc43"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - GUIFilmes",
+      "request": "launch",
       "mainClass": "main.GUIFilmes",
       "projectName": "javaBD_cf05fc43"
     },
