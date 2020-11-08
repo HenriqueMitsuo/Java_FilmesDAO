@@ -1,5 +1,5 @@
 ## Java_FilmesDAO
-- Projeto realizado na matéria de Desenvolvimento Orientado a Objetos 2 do curso de Análise e Desenvolvimento de sistemas
+- Projeto desenvolvido na matéria de Desenvolvimento Orientado a Objetos 2 do curso de Análise e Desenvolvimento de sistemas
 
 ## Getting Started
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
